@@ -4,10 +4,13 @@
 Kullanıcı sahip olduğu mobil cihazın kamerasını kullanarak öğrencinin cevap kâğıdının fotoğrafını çeker. Optik formun performanslı bir şekilde tanınması için ortamdaki ışık miktarı, form görüntüsünün mobil cihaz kamera ekranının görünür alanı içinde yer alması, el titremesi nedeniyle görüntünün bulanıklaşması gibi faktörler diğer aşamalardaki başarıyı doğrudan etkilemektedir. Dolayısıyla çekilmek istenen forma iyi odaklanılmalı ve kamera olabildiğince sabit tutulmalıdır. 
 
 
-**DEMO** `Coming soon`<br/>
+**DEMO** <br/><br/>
+*OpenCV Manager* `[OpenCV Manager APK](https://github.com/yusufaytin/Android-Optical-Form-Reader/blob/master/OpenCV_3.2.0_Manager_3.20_armeabi-v7a.apk)`<br/>
+*App APK* `[App APK](https://github.com/yusufaytin/Android-Optical-Form-Reader/blob/master/app-debug.apk)`<br/>
+*Optical Form* `[Optical Form](https://github.com/yusufaytin/Android-Optical-Form-Reader/blob/master/IMAG2470.jpg)`<br/>
 
 **NOTE :** Bu uygulama aşağıdaki optik form için tasarlanmıştır.<br/><br/>
-![main screen](https://github.com/yusufaytin/Android-Optical-Form-Reader/blob/master/screenshot/IMAG2472.jpg)
+![main screen](https://github.com/yusufaytin/Android-Optical-Form-Reader/blob/master/OpenCV_3.2.0_Manager_3.20_armeabi-v7a.apk)
 
 
 ## Project Guide
